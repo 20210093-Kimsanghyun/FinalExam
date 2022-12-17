@@ -2,7 +2,7 @@
 
 int main()
 {
-  printf("I want to play LOL");
+  printf("I don't want to play LOL");
   printf("I want to play Yugioh");
   
   return 0;
